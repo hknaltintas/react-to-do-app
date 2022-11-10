@@ -1,6 +1,5 @@
-# React To-Do App
-
-[Patika Profile]([https://app.patika.dev/haal]
+# React To-Do ApP
+Patika Profile[https://app.patika.dev/haal]
 
 
 
